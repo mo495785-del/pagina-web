@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+      body {
+        background-image: url('https://i.pinimg.com/736x/4b/d5/b5/4bd5b599514d06eb065cde8c3dd3e63d.jpg');
+        background-size: cover;
+        background-repeat: no-repeat; 
+        background-position: center;
+      }
+    </style>
+<meta charset="UTF-8>
+<meta name= "viewport=" contend="width=device-width, initial-scale=1.0>
+<title>My primera pagina web</title>
+</head> 
+<body>
+
+<h1 style="color: #976AF7;"> My nombre es : Monroy Escorza Sergio Jesus</h1>
+<p>Este es mi primer sitio web</p>
+
+<h2 style ="text-align:center;"> Datos sobre mi</h2>
+<p>Tengo 17 años, soy estudiante de la preparatoria numero ono y me gusta el basquet y el ciclismo</p>
+
+<h3>Mas informacion </h3>
+<ul/>
+<li>Soy moreno </li>
+<li>Alumno de sexto semestre </li>
+<li>Soy del grupo 6to 28 matutino </li>
+<ul/>
+<h4>Video informatio  </h4>
+<iframe width="270" height="270" src="https://www.youtube.com/embed/g4FHH2D_zz4?si=-1ViozWD951Ip5dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h5>musica para estudio  </h5>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3k3NWokhRRkEPhCzPmV8TW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<body>
+</html>
